@@ -1,0 +1,170 @@
+body{
+    margin:0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.header{
+    background-color:#3b5998;
+    width:100%;
+    height: 85px;
+    
+}
+
+.logo{
+   
+    width:50%;
+    padding-top:32px;
+    float: left;
+}
+
+.logotext{
+
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+
+}
+
+.login{
+   
+    width:50%;
+    float: left;
+    padding-top:10px;
+    
+}
+
+.login-label{
+
+color: white;
+font-size:12px;
+
+
+}
+
+.login-forgotten-account{
+    color:#9cb4d8;
+    font-size:12px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+
+.login-control{
+    margin-left: 115px;
+}
+
+.leftspace{
+    margin-left: 10px;
+}
+
+.submit-button{
+    color: white;
+    background-color: #4267b2;
+    border-color: #3b5998;
+    height: 20px;
+    margin-left: 10px;
+    cursor:pointer;
+
+}
+
+.submit-button:hover{
+
+    background-color:#3b5998 ;
+}
+
+.mainbody{
+    height:500px;
+    width:100%;
+    background: linear-gradient(white, #173165);
+}
+
+.left-mainbody{
+    
+    width:50%;
+    float:left;
+    
+    
+}
+
+.right-mainbody{
+    
+    width: 50%;
+    float:left;
+}
+
+.pic{
+    width: 500px;
+    padding-left: 114px;
+    padding-top:52px;
+}
+
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    padding-left: 114px;
+    padding-top:52px;
+}
+
+
+.color{
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 3px;
+}
+
+.color1{
+    border-radius: 10px;
+    margin-top: 8px;
+    background-color: #FFFFFF;
+    padding: 3px;
+    width:338px;
+
+}
+
+.word{
+
+    color:#515254;
+    font-weight: 600;
+}
+
+.color2{
+    margin-top: 4px;
+    background-color: #FFFFFF;
+    padding: 3px;
+    margin-bottom: 7px;
+}
+
+.para2{
+    color:#515254;
+    font-size: 11px;
+}
+
+.policy{
+    color:#252bda;
+    font-size:11px;
+    text-decoration: none;
+    
+}
+
+.sign-up{
+    background-color: rgb(34, 155, 34);
+    font-weight: bold;
+    color: white;
+    width: 150px;
+    height: 32px;
+    border-radius: 10px;
+}
+
+.birthday-day{
+    width: 40px;
+}
+
+.birthday-month{
+    width: 60px;
+}
+
+.birthday-year{
+    width: 70px;
+}
